@@ -3,3 +3,4 @@ movie-cv2/
 outs/
 temp/
 test.py
+__pycache__/
