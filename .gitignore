@@ -4,3 +4,4 @@ outs/
 temp/
 test.py
 __pycache__/
+.venv
